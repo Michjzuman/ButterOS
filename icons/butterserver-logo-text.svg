@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28.306 68.375 2238.097 263.25" width="2238.097" height="263.25">
+  <title>ButterServer Logo</title>
+  <g id="mark">
+    <path
+      d="M 160 320
+         A 120 120 0 0 1 160 80
+         L 280 80
+         Z"
+      fill="none"
+      stroke="#ffd400"
+      stroke-width="23"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+  </g>
+  <g id="wordmark">
+    <text
+      x="352"
+      y="320"
+      fill="#ffd400"
+      font-family="Avenir Next, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif"
+      font-size="340"
+      font-weight="267"
+      letter-spacing="-1.5"
+    >ButterServer</text>
+  </g>
+</svg>
