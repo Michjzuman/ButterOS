@@ -15,8 +15,6 @@ print("\n".join([f"{GREEN}{line}{RESET}" for line in [
 ]]))
 """
 
-
-
 # ▀ ▄ █
 
 @dataclass
@@ -37,7 +35,7 @@ BLUE = rgb(20, 164, 255).code
 
 os.system("clear; clear")
 
-
+"""
 print("\n".join([
     f"█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█",
     f"█{COLOR} ██▀▀█▄ ██  ██ ▀▀██▀▀ ▀▀██▀▀ ██▀▀▀▀ ██▀▀▄▄    {RESET}█",
@@ -53,6 +51,14 @@ print("\n".join([
     f"█{COLOR}        ██ ██     ██  ██  ████  ██     ██  ██ {RESET}█",
     f"█{COLOR}    ▀▀▀▀▀▀ ▀▀▀▀▀▀ ▀▀  ▀▀   ▀▀   ▀▀▀▀▀▀ ▀▀  ▀▀ {RESET}█",
     f"▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀"
+]))
+"""
+
+print("\n".join([
+    f"▀▀▀▀▀▀",
+    f"██████",
+    f"▀▀▀▀▀▀",
+    f"▀▀▀▀▀▀"
 ]))
 
 input_text = "butter@butterserver"
